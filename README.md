@@ -36,7 +36,7 @@ return new FirefoxDriver(options);
 Tests can be run inside the IDE or from the command line using `mvn clean test`.
 
 ### Configuration
-The project is using the WDM and the code I discovered recently with a little bit of configuration. Then the tests can be executed in different browsers.
+The project is using the WDM project and the code I [discovered](https://github.com/PacktPublishing/Mastering-Selenium-WebDriver-3.0-Second-Edition) recently with a little bit of configuration. Then the tests can be executed in different browsers.
 
 The execution can be configured with system properties. 
 
